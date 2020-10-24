@@ -9,7 +9,7 @@ cis 1202 502
 */
 
 
-int main() //h
+int main() //hi
 {
 
 	cout << "Hello world!" << endl;
