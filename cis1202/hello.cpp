@@ -12,7 +12,7 @@ cis 1202 502
 int main() //hi
 {
 
-	cout << "Hello world!" << endl;
+	cout << "Hello universe!" << endl;
 
 	return 0;
 }
