@@ -338,3 +338,16 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/cis1202/cardDeck.cpp
+/cis1202/CharStrings.cpp
+/cis1202/Car.h
+/cis1202/Car.cpp
+/cis1202/midTermProject.cpp
+/cis1202/Inventory.cpp
+/cis1202/mainSource.cpp
+/cis1202/Truck.h
+/cis1202/Vehicles.cpp
+/cis1202/Vehicles.h
+/cis1202/Truck.cpp
+/cis1202/structuredData.cpp
+/cis1202/pointers2.cpp

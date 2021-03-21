@@ -19,13 +19,13 @@
     <Filter Include="structdata">
       <UniqueIdentifier>{d7098cce-45f3-44e9-9ee4-f8f2725de355}</UniqueIdentifier>
     </Filter>
-    <Filter Include="midterm">
+    <Filter Include="classes">
       <UniqueIdentifier>{3222e342-c735-4a3b-a270-85ebcb282080}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello.cpp">
-      <Filter>midterm</Filter>
+    <ClCompile Include="gitRepo.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
